@@ -2,7 +2,7 @@
 ![AWS-SAA](./img/aws-certified-solutions-architect-associate.png)
 
 ### :star:About me
-헤헤 공부하기 싫어요:smile:
+:smile:
 
 ### :hammer:Stack
 <div>
