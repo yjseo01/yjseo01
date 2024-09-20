@@ -1,23 +1,18 @@
-# Hi, there:wave:
-![AWS-SAA](./img/aws-certified-solutions-architect-associate.png)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:74ebd5,100:acb6e5&height=200&section=header&text=Hello,%20World!🤗&fontSize=40&animation=fadeIn&fontAlignY=36&fontColor=ffffff)
 
-### :star:About me
-:smile:
+## 🛠️Tech Stacks🛠️
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,python,java&theme=light)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=dotnet,spring,flask&theme=light)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=linux,bash&theme=light)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js&theme=light)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,vim,eclipse&theme=light)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,aws,azure&theme=light)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=git&theme=light)](https://skillicons.dev) 
 
-### :hammer:Stack
-<div>
-<img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/gnubash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-  
-<br>
-<img src="https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
-</div>
+## 📈Github Status📈
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yjseo01&show_icons=true&theme=cobalt)<br>
+![yjseo01's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjseo01&show_icons=true&theme=cobalt) <br>
 
-***
-
+## 🏅Baekjoon Rank🏅
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yujin071610)](https://solved.ac/yujin071610/)
+
