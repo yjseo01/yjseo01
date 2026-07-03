@@ -1,49 +1,44 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:74ebd5,100:acb6e5&height=200&section=header&text=Hello,%20World!🤗&fontSize=40&animation=fadeIn&fontAlignY=36&fontColor=ffffff" alt="header">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:74ebd5,100:acb6e5&height=200&section=header&text=Yujin%20Seo's%20Github&fontSize=40&animation=fadeIn&fontAlignY=36&fontColor=ffffff" alt="header">
 </div>
 
-<h2 align="center">🛠️Tech Stacks🛠️</h2>
+<div align="center">
+<h3> 🔎About Me🔎 </h3>
+
 <p align="center">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,nodejs,matlab&theme=light" alt="My Skills">
-    </a><br>
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=light" alt="My Skills">
-    </a><br>
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=dotnet,spring,gradle,flask&theme=light" alt="My Skills">
-    </a><br>
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,powershell&theme=light" alt="My Skills">
-    </a><br>
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,nginx,postman&theme=light" alt="My Skills">
-    </a><br>
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=vscode,visualstudio,vim,eclipse,idea&theme=light" alt="My Skills">
-    </a><br>
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure&theme=light" alt="My Skills">
-    </a><br>
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git&theme=light" alt="My Skills">
-    </a><br>
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=notion,stackoverflow,github&theme=light" alt="My Skills">
-    </a><br>
+Hi🤗 I'm a software engineer interested in system programming, network, and infrastructure. <br>
+I like working with low-level systems and understanding how things work under the hood.
 </p>
 
-<h2 align="center">📈Github Status📈</h2>
+<h3 align="center"> 🛠️Tech Stacks🛠️ </h3>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yjseo01&show_icons=true&theme=cobalt" alt="Top Langs"><br>
-    <img src="https://github-readme-stats.vercel.app/api?username=yjseo01&show_icons=true&theme=cobalt" alt="yjseo01's GitHub stats"><br>
-</p>
+<h4 align="center"> Languages & Platforms </h4>
+    
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=sharp&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-<h2 align="center">🏅Baekjoon Rank🏅</h2>
-<p align="center">
-    <a href="https://solved.ac/yujin071610/">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yujin071610" alt="Solved.ac Profile">
-    </a>
+<h4 align="center"> Database </h4>
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+<h4 align="center"> Tools </h4>
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GDB](https://img.shields.io/badge/GDB-000000?style=flat-square&logo=gnu&logoColor=white)
+
 </p>
 
 <p align="center">
