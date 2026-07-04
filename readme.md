@@ -34,12 +34,18 @@ I like working with low-level systems and understanding how things work under th
 <h4 align="center"> Tools </h4>
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![GDB](https://img.shields.io/badge/GDB-000000?style=flat-square&logo=gnu&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Subversion](https://img.shields.io/badge/Subversion-809CC9?style=flat-square&logo=subversion&logoColor=white)
 
 </p>
+
+<br>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yjseo01&theme=tokyonight-duo&date_format=%5BY.%5Dn.j" alt="GitHub Streak" /></a>
 
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:74ebd5,100:acb6e5&height=200&section=footer" alt="footer">
